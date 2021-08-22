@@ -5,11 +5,16 @@
 
 ---
 
-+ [Что такое Git?](./assets/foreword.md)
-+ [Установка и настройка.](./assets/instal_git.md)
-+ [Создание Git-репозитория.](./assets/create_git_repository.md)
-+ [GitHub что это?](./assets/github.md)
-+ [Создание репозитория на GitHub. ](./assets/create_gitHub_repository.md)
+1. [Что такое Git?](./assets/1.md)
+2. [Установка и настройка.](./assets/2.md)
+3. [Создание Git-репозитория.](./assets/3.md)
+4. [Команды Git.](./assets/4.md)
+5. [Игнорирование файлов.](./assets/5.md)
+6. [Что такое GitHub?](./assets/6.md)
+7. [Создание репозитория на GitHub. ](./assets/7.md)
+8. [Ветвление Git. ](./assets/8.md)
+9. [Конфликты. ](./assets/9.md)
+
 
 
 лицензия [mit](./assets/license.md)
