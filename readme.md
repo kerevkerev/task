@@ -13,8 +13,13 @@
 6. [Что такое GitHub?](./assets/6.md)
 7. [Создание репозитория на GitHub. ](./assets/7.md)
 8. [Ветвление Git. ](./assets/8.md)
-9. [Конфликты. ](./assets/9.md)
+9. [Конфликты слияния в Git. ](./assets/9.md)
+10. [Команды для решения конфликтов слияния. ](./assets/10.md)
 
 
+---
 
-лицензия [mit](./assets/license.md)
+license [mit](./assets/license.md)
+
+Git logo by Jason Long - http://git-scm.com/downloads/logos\,
+license [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
